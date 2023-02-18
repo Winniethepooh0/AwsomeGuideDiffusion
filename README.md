@@ -11,6 +11,8 @@
 
 [[ICLR](https://arxiv.org/pdf/2212.00490.pdf)] Zero Shot Image Restoration Using Denoising Diffusion Null-Space Model[[code](https://github.com/wyhuai/DDNM)]
 
+[[arxiv](https://arxiv.org/pdf/2212.08861.pdf)] DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Mode [[project](https://ku-cvlab.github.io/DAG/)]
+
 2022
 
 [[Neurips](https://ddrm-ml.github.io/DDRM-paper.pdf)]Denoising Diffusion Restoration Models [[code](https://github.com/bahjat-kawar/ddrm)]
@@ -30,4 +32,6 @@
 
 2021
 
-[[Neurips](https://arxiv.org/abs/2105.05233)] Diffusion Models Beat GANS on Image Synthesis [[code]https://github.com/openai/guided-diffusion]
+[[WACV](https://arxiv.org/pdf/2112.05744.pdf)]More Control for Free! Image Synthesis with Semantic Diffusion Guidance [[project](https://xh-liu.github.io/sdg/)]
+
+[[Neurips](https://arxiv.org/abs/2105.05233)] Diffusion Models Beat GANS on Image Synthesis [[code](https://github.com/openai/guided-diffusion)]
