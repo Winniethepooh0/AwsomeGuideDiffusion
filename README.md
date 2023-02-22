@@ -11,6 +11,8 @@
 
 [[ICLR](https://arxiv.org/pdf/2212.00490.pdf)] Zero Shot Image Restoration Using Denoising Diffusion Null-Space Model[[code](https://github.com/wyhuai/DDNM)]
 
+[[ICLR](https://arxiv.org/abs/2209.15408)]Equivariant Energy-Guided SDE for Inverse Molecular Design [[code](https://github.com/gracezhao1997/EEGSDE)]
+
 [[arxiv](https://arxiv.org/pdf/2212.08861.pdf)] DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Mode [[project](https://ku-cvlab.github.io/DAG/)]
 
 2022
@@ -23,11 +25,11 @@
 
 [[Neurips](https://arxiv.org/abs/2207.06635)]EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations [[code](https://github.com/ML-GSAI/EGSDE)]
 
-[[arxiv](https://arxiv.org/abs/2209.15408)]Equivariant Energy-Guided SDE for Inverse Molecular Design [[code](https://github.com/gracezhao1997/EEGSDE)]
-
 [[ICML](https://arxiv.org/pdf/2112.10741.pdf)]GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [[code](https://github.com/openai/glide-text2im)]
 
 [[arxiv](https://arxiv.org/abs/2207.12598)] Classifier-free Diffusion Guidance [[code]]
+
+[[arxiv](https://arxiv.org/abs/2210.00939)] Improving Sample Quality of Diffusion Models Using Self-Attention Guidance [[code](https://github.com/KU-CVLAB/Self-Attention-Guidance/)]
 
 
 2021
