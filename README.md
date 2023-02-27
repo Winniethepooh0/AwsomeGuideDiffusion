@@ -17,6 +17,9 @@
 
 2022
 
+
+[[CVPR](https://arxiv.org/pdf/2110.02711.pdf)]DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation [[code](https://github.com/gwang-kim/DiffusionCLIP)]
+
 [[Neurips](https://ddrm-ml.github.io/DDRM-paper.pdf)]Denoising Diffusion Restoration Models [[code](https://github.com/bahjat-kawar/ddrm)]
 
 [[Neurips](https://arxiv.org/pdf/2206.09012.pdf)] Diffusion Models as Plug-and-Play Priors [[code](https://github.com/AlexGraikos/diffusion_priors)]
@@ -31,6 +34,7 @@
 
 [[arxiv](https://arxiv.org/abs/2210.00939)] Improving Sample Quality of Diffusion Models Using Self-Attention Guidance [[code](https://github.com/KU-CVLAB/Self-Attention-Guidance/)]
 
+[[arxiv](https://arxiv.org/pdf/2210.06462.pdf)] SELF-GUIDED DIFFUSION MODEL
 
 2021
 
