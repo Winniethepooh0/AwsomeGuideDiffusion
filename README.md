@@ -38,6 +38,8 @@
 
 2021
 
+[[ICCV](https://arxiv.org/pdf/2108.02938.pdf)]ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models [[code](https://github.com/jychoi118/ilvr_adm)]
+
 [[WACV](https://arxiv.org/pdf/2112.05744.pdf)]More Control for Free! Image Synthesis with Semantic Diffusion Guidance [[project](https://xh-liu.github.io/sdg/)]
 
 [[Neurips](https://arxiv.org/abs/2105.05233)] Diffusion Models Beat GANS on Image Synthesis [[code](https://github.com/openai/guided-diffusion)]
