@@ -3,6 +3,8 @@
 
 2023
 
+[[arxiv](https://arxiv.org/pdf/2303.09833.pdf)]FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model [[code](https://github.com/vvictoryuki/FreeDoM)]
+
 [[arxiv](https://arxiv.org/abs/2302.07121)] Universal-Guided-Diffusion [[code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)]
 
 [[ICLR](https://openreview.net/forum?id=OnD9zGAGT0k)] Diffusion Posterior Sampling for General Noisy Inverse Problems [[code](https://github.com/DPS2022/diffusion-posterior-sampling)]
