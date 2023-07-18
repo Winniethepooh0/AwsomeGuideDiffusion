@@ -3,6 +3,8 @@
 
 2023
 
+[[CVPR](https://dave.ml/selfguidance/)]Diffusion Self-Guidance for Controllable Image Generation
+
 [[arxiv](https://arxiv.org/pdf/2303.09833.pdf)]FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model [[code](https://github.com/vvictoryuki/FreeDoM)]
 
 [[arxiv](https://arxiv.org/abs/2302.07121)] Universal-Guided-Diffusion [[code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)]
